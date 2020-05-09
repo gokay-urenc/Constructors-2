@@ -1,0 +1,10 @@
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Constructor_2\Constructor_2\bin\Debug\Constructor_2.exe.config
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Constructor_2\Constructor_2\bin\Debug\Constructor_2.exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Constructor_2\Constructor_2\bin\Debug\Constructor_2.pdb
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Constructor_2\Constructor_2\obj\Debug\Constructor_2.csprojAssemblyReference.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Constructor_2\Constructor_2\obj\Debug\Constructor_2.Form1.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Constructor_2\Constructor_2\obj\Debug\Constructor_2.Properties.Resources.resources
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Constructor_2\Constructor_2\obj\Debug\Constructor_2.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Constructor_2\Constructor_2\obj\Debug\Constructor_2.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Constructor_2\Constructor_2\obj\Debug\Constructor_2.exe
+C:\Users\casper\Desktop\Files\Applications\Form Applications\Constructor_2\Constructor_2\obj\Debug\Constructor_2.pdb
